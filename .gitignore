@@ -1,13 +1,11 @@
-# Default ignored files
-/shelf/
-/.idea/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Ignored default folder with query files
-/queries/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+# Configuracoes da IDE (IntelliJ)
+.idea/
+*.iml
 
+# Arquivos compilados do Java
+out/
+*.class
+
+# Arquivos avulsos que nao fazem parte do projeto
 Exercicio1.java
 Exercicio2.java
